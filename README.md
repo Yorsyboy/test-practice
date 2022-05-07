@@ -1,6 +1,7 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # test-practice
+Testing javascript codes with JEST
 
 ## Author 1
 
